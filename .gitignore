@@ -1,4 +1,11 @@
 __pycache__/
 *.pyc
-*.png
+.venv/
+.env
+
+temp_*
+01_pdf_raster.png
+02_ifc_raster.png
+03_ifc_aligned.png
+04_overlay.png
 alignment_results.json
