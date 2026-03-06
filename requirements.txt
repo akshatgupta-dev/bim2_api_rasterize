@@ -2,3 +2,9 @@ fastapi
 uvicorn[standard]
 python-multipart
 numpy
+opencv-python-headless
+pdfplumber
+matplotlib
+scikit-learn
+PyMuPDF
+ifcopenshell
